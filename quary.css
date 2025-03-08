@@ -1,0 +1,15 @@
+@media screen and (max-width: 800px) { 
+
+    .random {
+        height: auto;
+        width: 100%;
+    }
+    button {
+        margin-left: 10px;
+    }
+    
+    p {
+        margin-top: 20px;
+        padding: 30px 80px;
+    }
+}
